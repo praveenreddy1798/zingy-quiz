@@ -1,0 +1,34 @@
+.main {
+  height: 100vh;
+  overflow-y: auto;
+  background-color: var(--primary-dark);
+}
+
+.card {
+  width: 20rem;
+}
+
+.card:hover {
+  box-shadow: none;
+}
+
+.card-image-container {
+  padding: 0;
+}
+
+.card-image {
+  height: 15rem;
+  background: transparent;
+}
+
+.rules-card {
+  width: max-content;
+}
+
+.quiz-card {
+  width: 30rem;
+}
+
+.quiz-option {
+  padding: 0.75rem;
+}
