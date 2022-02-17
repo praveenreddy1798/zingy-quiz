@@ -1,0 +1,4 @@
+.outline-primary:hover {
+  color: var(--primary-dark);
+  background-color: var(--white);
+}
