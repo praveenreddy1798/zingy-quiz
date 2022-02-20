@@ -1,7 +1,7 @@
 .main {
   height: 100vh;
   overflow-y: auto;
-  background-color: var(--primary-dark);
+  background-color: var(--primary-lighter-1);
 }
 
 .card {
