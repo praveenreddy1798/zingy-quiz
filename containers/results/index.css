@@ -1,8 +1,4 @@
-.outline-primary:hover {
-  color: var(--primary-dark);
-  background-color: var(--white);
-}
-
+.outline-primary:hover,
 .outline-primary:focus {
   color: var(--primary-dark);
   background-color: var(--white);
