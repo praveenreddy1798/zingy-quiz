@@ -32,3 +32,8 @@
 .quiz-option {
   padding: 0.75rem;
 }
+
+.quiz-option:focus {
+  color: var(--white);
+  background-color: var(--primary-lighter);
+}
