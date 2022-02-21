@@ -2,3 +2,8 @@
   color: var(--primary-dark);
   background-color: var(--white);
 }
+
+.outline-primary:focus {
+  color: var(--primary-dark);
+  background-color: var(--white);
+}

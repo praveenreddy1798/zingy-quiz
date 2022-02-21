@@ -33,7 +33,7 @@
   padding: 0.75rem;
 }
 
-.quiz-option:focus {
+.outline-primary:focus {
   color: var(--white);
   background-color: var(--primary-lighter);
 }
